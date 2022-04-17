@@ -88,8 +88,7 @@ overflow: hidden;
 /* Seconde section */
 .delivery-container{
     height: 100vh;
-    
-    margin: auto;
+
     background-image: url(./Image/imgsection2.png);
     background-size: contain;
     
@@ -109,7 +108,7 @@ overflow: hidden;
     color: #8b0101;
     filter: drop-shadow(6px 8px 12px black);
 }
-
+    
 
 .coffeeview{
     display: flex;
