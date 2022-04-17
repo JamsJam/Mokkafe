@@ -1,0 +1,35 @@
+*{
+    font-size: 20px;
+}
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 80px;
+}
+
+
+.box1{
+    background-color: #240;
+    height: 100px;
+    width: 100px;
+    margin: 80px
+}
+
+.bl2{
+    background-color: #2f0;
+    height: 100px;
+    width: 100px;
+    margin: 80px
+}
+
+.bl3{
+    background-color: #24f;
+    height: 100px;
+    width: 100px;
+    margin: 80px
+}
+
+#bg{
+    filter: blur(1px);
+}
